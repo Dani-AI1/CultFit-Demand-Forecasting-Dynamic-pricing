@@ -16,7 +16,7 @@ In this project, you will help analyze attendance data of various fitness classe
 
 The project is based on a 2 structured dataset (Class Apr-May 2018.csv and Class june 2018.csv) with features such as:
 
-1. ActivitySiteID,	ActivityDescription,	BookingEndDateTime (Month / Day / Year),	BookingStartTime,	MaxBookees,	Number Booked	Price (INR)
+1. **ActivitySiteID,	ActivityDescription,	BookingEndDateTime (Month / Day / Year),	BookingStartTime,	MaxBookees,	Number Booked	Price (INR)**
 
 **Exploratory Data Analysis**
 
